@@ -29,8 +29,8 @@ Here are some projects I'm proud of:
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Vinayak Pandey](https://linkedin.com/in/vinayak-pandey)
-- **Email:** [your.email@example.com](#)
+- **LinkedIn:** [Vinayak Pandey](https://www.linkedin.com/in/vinayak-pandey-27b83a416)
+- **Email:** [pandeyvinayak589@gmail.com](mailto:pandeyvinayak589@gmail.com)
 - **GitHub:** [@magpandey](https://github.com/magpandey)
 
 ## 🌱 Currently Learning
