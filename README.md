@@ -27,12 +27,6 @@ Here are some projects I'm proud of:
 - Contributing to open-source projects
 - Preparing for my career transition into professional software development
 
-## 📫 Let's Connect
-
-- **LinkedIn:** [Vinayak Pandey](https://www.linkedin.com/in/vinayak-pandey-27b83a416)
-- **Email:** [pandeyvinayak589@gmail.com](mailto:pandeyvinayak589@gmail.com)
-- **GitHub:** [@magpandey](https://github.com/magpandey)
-
 ## 🌱 Currently Learning
 
 Diving deeper into system design, advanced database optimization, and exploring new frameworks to expand my development skills.
